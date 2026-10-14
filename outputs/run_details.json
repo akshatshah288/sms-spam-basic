@@ -1,0 +1,13 @@
+{
+  "cleaned_rows": 5046,
+  "train_rows": 4036,
+  "test_rows": 1010,
+  "sklearn": "1.8.0",
+  "nltk": "3.10.3",
+  "source_sha256": "440e6ea9fa825578abfdd7b7932ef8393d72ef86c0c33f64676705ce40b1dfc2",
+  "label_mapping": {
+    "ham": 0,
+    "spam": 1
+  },
+  "seed": 42
+}

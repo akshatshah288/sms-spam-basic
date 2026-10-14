@@ -1,0 +1,1 @@
+Bag-of-Words + Naive Bayes achieved the highest spam F1-score on this split (0.9304), with an accuracy of 98.42%. F1 is useful because ham messages are much more common than spam, so high accuracy alone can hide missed spam. These results come from one held-out split and do not establish that the same model will always perform best on new datasets.
